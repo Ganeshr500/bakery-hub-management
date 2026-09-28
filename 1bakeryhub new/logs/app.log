@@ -1,0 +1,5 @@
+2026-09-27 16:59:26,859 | INFO | main | BakeryHub application started
+2026-09-27 17:00:09,142 | INFO | storage | Saved 1 record(s) to the database (items)
+2026-09-27 17:00:09,143 | INFO | inventory_manager | Added item 001 - Pepsi (40 units @ 100.0)
+2026-09-27 17:00:23,645 | INFO | main | BakeryHub application exited normally
+2026-09-27 17:00:32,105 | INFO | main | BakeryHub application started
